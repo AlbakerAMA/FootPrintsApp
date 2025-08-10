@@ -56,7 +56,9 @@
 
 ### Project Structure
 
-***FootPrintsApp/
+```
+
+ FootPrintsApp/
 ├── android/                → Native Android project files
 ├── ios/                    → Native iOS project files
 ├── web/                    → Web app configuration
@@ -66,7 +68,8 @@
 ├── test/                   → Unit & widget tests
 ├── analysis_options.yaml   → Static analysis rules
 ├── pubspec.yaml            → Flutter dependencies and metadata
-└── README.md ***
+└── README.md
+```
 
 
 
